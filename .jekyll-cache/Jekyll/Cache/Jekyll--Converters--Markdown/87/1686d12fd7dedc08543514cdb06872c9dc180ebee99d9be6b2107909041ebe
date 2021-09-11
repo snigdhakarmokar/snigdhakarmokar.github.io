@@ -1,0 +1,822 @@
+I"SF
+<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
+
+<h2>Pages</h2>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/404.html" rel="permalink">Page Not Found</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Page not found. Your pixels are in another canvas.
+<u><strong><a href="http://localhost:4000/404.html" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/" rel="permalink">About</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me
+<u><strong><a href="http://localhost:4000/" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/archive-layout-with-content/" rel="permalink">Archive Layout with Content</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/" rel="permalink">Publications</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/categories/" rel="permalink">Posts by Category</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/collection-archive/" rel="permalink">Posts by Collection</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/contact/" rel="permalink">Contact</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Contact me
+<u><strong><a href="http://localhost:4000/contact/" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/cv/" rel="permalink">CV</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/expressions/" rel="permalink">Expressions</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/assets/css/main.css" rel="permalink"></a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/page-archive/" rel="permalink">Page Archive</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/categories/" rel="permalink">Posts by Category</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/sitemap/" rel="permalink">Sitemap</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/splash-page/" rel="permalink">Splash Page</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2016-03-23T08:48:41-07:00">March 23, 2016</time></p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
+<u><strong><a href="http://localhost:4000/splash-page/" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/tags/" rel="permalink">Posts by Tags</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talkmap.html" rel="permalink">Talk map</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/" rel="permalink">Talks and presentations</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/" rel="permalink">Teaching</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/terms/" rel="permalink">Terms and Privacy Policy</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/year-archive/" rel="permalink">Blog posts</a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/assets/css/main.css.map" rel="permalink"></a>
+      
+    </h2>
+    
+    
+    
+    
+
+    
+
+    
+    
+
+  </article>
+</div>
+
+<h2>Posts</h2>
+
+<h2>articles</h2>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2015-11-01-voronoi-game-on-graphs" rel="permalink">Voronoi Game on Graphs
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>TCS</i>, 2015 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>An approximation algorithm and some related proofs for the two player game in facility location problems. Voronoi game is a geometric model of competitive facility location problem played between two players.
+<u><strong><a href="http://localhost:4000/articles/2015-11-01-voronoi-game-on-graphs" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: S Bandyapadhyay, A Banik, S Das, <u>H Sarkar</u> - Theoretical Computer Science, 2015 (authors alphabetical order) </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2016-04-12-rapclust-recombseq" rel="permalink">Accurate, fast and lightweight clustering of de novo transcriptomes using fragment equivalence classes
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>RECOMB-Seq</i>, 2015 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We present a method for clustering contigs from de novo transcriptome assemblies based upon the relationships exposed by multi-mapping sequencing fragments.
+<u><strong><a href="http://localhost:4000/articles/2016-04-12-rapclust-recombseq" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: Accurate, fast and lightweight clustering of de novo transcriptomes using fragment equivalence classes A Srivastava*, <u>H Sarkar</u>*, L Malik, R Patro - arXiv preprint arXiv:1604.03250, 2016 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2016-06-15-rapmap" rel="permalink">RapMap: a rapid, sensitive and accurate tool for mapping RNA-seq reads to transcriptomes
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ISMB</i>, 2016 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We introduce a novel concept, quasi-mapping, and an efficient algorithm implementing this approach for mapping sequencing reads to a transcriptome.
+<u><strong><a href="http://localhost:4000/articles/2016-06-15-rapmap" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: RapMap: a rapid, sensitive and accurate tool for mapping RNA-seq reads to transcriptomes A Srivastava, <u>H Sarkar</u>, N Gupta, R Patro - Bioinformatics, 2016 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2017-11-01-quark" rel="permalink">Quark enables semi-reference-based compression of RNA-seq data
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>Bioinformatics</i>, 2017 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We present Quark, a semi-reference-based compression tool designed for RNA-seq data. Quark makes use of a reference sequence when encoding reads, but produces a representation that can be decoded independently, without the need for a reference.
+<u><strong><a href="http://localhost:4000/articles/2017-11-01-quark" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: <u>Hirak Sarkar</u>, and Rob Patro. Quark enables semi-reference-based compression of RNA-seq data. Bioinformatics 33.21 (2017): 3380-3386. </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2018-06-15-pufferfish" rel="permalink">A space and time-efficient index for the compacted colored de Bruijn graph
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ISMB</i>, 2018 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We present a novel data structure for representing and indexing the compacted colored de Bruijn graph, which allows for efficient pattern matching and retrieval of the reference information associated with each k-mer.
+<u><strong><a href="http://localhost:4000/articles/2018-06-15-pufferfish" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: F Almodaresi*, <u>H Sarkar</u>*, A Srivastava, R Patro - Bioinformatics, 2018 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2018-08-14-selective-alignment" rel="permalink">Towards selective-alignment: Bridging the accuracy gap between alignment-based and alignment-free transcript quantification
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ACM-BCB</i>, 2018 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We introduce an algorithm for selectively aligning high-throughput sequencing reads to a transcriptome, with the goal of improving transcript-level quantification in difficult or adversarial scenarios.
+<u><strong><a href="http://localhost:4000/articles/2018-08-14-selective-alignment" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: <u>Sarkar, Hirak</u>*, Mohsen Zakeri*, Laraib Malik, Rob Patro Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics. 2018. </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2019-01-01-mappings-matter" rel="permalink">Alignment and mapping methodology influence transcript abundance estimation
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>BioXiv</i>, 2018 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We investigate the influence of mapping and alignment on the accuracy of transcript quantification in both simulated and experimental data, as well as the effect on subsequent differential expression analysis.
+<u><strong><a href="http://localhost:4000/articles/2019-01-01-mappings-matter" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation:  </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2019-06-16-minnow" rel="permalink">Minnow: a principled framework for rapid simulation of dscRNA-seq data at the read level
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ISMB</i>, 2019 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We present minnow, a comprehensive sequence-level droplet-based single-cell RNA-sequencing (dscRNA-seq) experiment simulation framework.
+<u><strong><a href="http://localhost:4000/articles/2019-06-16-minnow" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: <u>H Sarkar</u>, A Srivastava, R Patro - Bioinformatics, 2019 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2020-01-06-att_tie" rel="permalink">Social Media Attributions in the Context of Water Crisis
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>Arxiv</i>, 2020 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>In this paper, we explore how can we use social media data and an AI-driven approach to complement traditional surveys and automatically extract attribution factors.
+<u><strong><a href="http://localhost:4000/articles/2020-01-06-att_tie" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: R Sarkar, <u>H Sarkar</u>, S Mahinder, AR KhudaBukhsh - arXiv preprint arXiv:2001.01697 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2020-04-10-alevin_2" rel="permalink">A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ISMB</i>, 2020 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We introduce a Bayesian framework for information sharing across cells within a sample, or across multiple modalities of data using the same sample, to improve gene quantification estimates for dscRNA-seq data.
+<u><strong><a href="http://localhost:4000/articles/2020-04-10-alevin_2" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: A Srivastava, L Malik, <u>H Sarkar</u>, R Patro - bioRxiv, 2020 </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/articles/2020-04-15-terminus" rel="permalink">Terminus enables the discovery of data-driven, robust transcript groups from RNA-seq data
+</a>
+      
+    </h2>
+    
+    
+    
+    
+      <p>Published in <i>ISMB</i>, 2020 </p>
+    
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We introduce a new data-driven approach for grouping together transcripts in an experiment based on their inferential uncertainty.
+<u><strong><a href="http://localhost:4000/articles/2020-04-15-terminus" rel="permalink"> Read more</a></strong></u></p></p>
+    
+
+    
+    
+      <p>Recommended citation: <u>H Sarkar</u>, A Srivastava, HC Bravo, MI Love, R Patro - bioRxiv, 2020 </p>
+    
+
+  </article>
+</div>
+
+<h2>expressions</h2>
+
+<h2>talks</h2>
+
+<h2>teaching</h2>
+
+:EF

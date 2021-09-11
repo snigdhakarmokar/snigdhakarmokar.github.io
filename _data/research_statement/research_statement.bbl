@@ -1,0 +1,92 @@
+\begin{thebibliography}{10}
+
+\bibitem{pufferfish}
+Fatemeh Almodaresi*, Hirak Sarkar*, Avi Srivastava, and Rob Patro.
+\newblock A space and time-efficient index for the compacted colored de bruijn
+  graph.
+\newblock {\em Bioinformatics}, 34(13):i169--i177, 2018 (* equal contribution).
+
+\bibitem{amodio2018magan}
+Matthew Amodio and Smita Krishnaswamy.
+\newblock Magan: Aligning biological manifolds.
+\newblock {\em arXiv preprint arXiv:1803.00385}, 2018.
+
+\bibitem{daume2009frustratingly}
+Hal Daum{\'e}~III.
+\newblock Frustratingly easy domain adaptation.
+\newblock {\em arXiv preprint arXiv:0907.1815}, 2009.
+
+\bibitem{eraslan2019deep}
+G{\"o}kcen Eraslan, {\v{Z}}iga Avsec, Julien Gagneur, and Fabian~J Theis.
+\newblock Deep learning: new computational modelling techniques for genomics.
+\newblock {\em Nature Reviews Genetics}, 20(7):389--403, 2019.
+
+\bibitem{ganin2014unsupervised}
+Yaroslav Ganin and Victor Lempitsky.
+\newblock Unsupervised domain adaptation by backpropagation.
+\newblock {\em arXiv preprint arXiv:1409.7495}, 2014.
+
+\bibitem{liu2019jointly}
+Jie Liu, Yuanhao Huang, Ritambhara Singh, Jean-Philippe Vert, and
+  William~Stafford Noble.
+\newblock Jointly embedding multiple single-cell omics measurements.
+\newblock {\em BioRxiv}, page 644310, 2019.
+
+\bibitem{salmon}
+Rob Patro, Geet Duggal, Michael~I Love, Rafael~A Irizarry, and Carl Kingsford.
+\newblock Salmon provides fast and bias-aware quantification of transcript
+  expression.
+\newblock {\em Nature methods}, 14(4):417, 2017.
+
+\bibitem{quark}
+Hirak Sarkar and Rob Patro.
+\newblock Quark enables semi-reference-based compression of rna-seq data.
+\newblock {\em Bioinformatics}, 33(21):3380--3386, 2017.
+
+\bibitem{terminus}
+Hirak Sarkar, Avi Srivastava, Hector~Corrada Bravo, Michael~I Love, and Rob
+  Patro.
+\newblock Terminus enables the discovery of data-driven, robust transcript
+  groups from rna-seq data.
+\newblock {\em bioRxiv}, 2020.
+
+\bibitem{minnow}
+Hirak Sarkar, Avi Srivastava, and Rob Patro.
+\newblock Minnow: a principled framework for rapid simulation of dscrna-seq
+  data at the read level.
+\newblock {\em Bioinformatics}, 35(14):i136--i144, 2019.
+
+\bibitem{selaln}
+Hirak Sarkar, Mohsen Zakeri, Laraib Malik, and Rob Patro.
+\newblock Towards selective-alignment: Bridging the accuracy gap between
+  alignment-based and alignment-free transcript quantification.
+\newblock In {\em Proceedings of the 2018 ACM International Conference on
+  Bioinformatics, Computational Biology, and Health Informatics}, pages 27--36,
+  2018.
+
+\bibitem{alevin2}
+Avi Srivastava, Laraib Malik, Hirak Sarkar, and Rob Patro.
+\newblock A bayesian framework for inter-cellular information sharing improves
+  dscrna-seq quantification.
+\newblock {\em bioRxiv}, 2020.
+
+\bibitem{mappingsmatter}
+Avi Srivastava, Laraib Malik, Hirak Sarkar, Mohsen Zakeri, Fatemeh Almodaresi,
+  Charlotte Soneson, Michael~I Love, Carl Kingsford, and Rob Patro.
+\newblock Alignment and mapping methodology influence transcript abundance
+  estimation.
+\newblock {\em BioRxiv}, page 657874, 2019.
+
+\bibitem{rapmap}
+Avi Srivastava, Hirak Sarkar, Nitish Gupta, and Rob Patro.
+\newblock Rapmap: a rapid, sensitive and accurate tool for mapping rna-seq
+  reads to transcriptomes.
+\newblock {\em Bioinformatics}, 32(12):i192--i200, 2016.
+
+\bibitem{rapclust}
+Avi Srivastava, Hirak Sarkar, Laraib Malik, and Rob Patro.
+\newblock Accurate, fast and lightweight clustering of de novo transcriptomes
+  using fragment equivalence classes.
+\newblock {\em arXiv preprint arXiv:1604.03250}, 2016.
+
+\end{thebibliography}

@@ -1,0 +1,93 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\firstname{Research} % Your first name
+\familyname{Statement} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Hirak Sarkar | April 20' 2020}
+\address{5812 Quebec St}{Berwyn Heights, MD-20740}
+\mobile{(631) 520 8131}
+\email{hsarkar@umd.edu}
+\homepage{www.hiraksarkar.com}{www.hiraksarkar.com}
+
+          
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+% \makeatletter
+% \renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+% \makeatother
+\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+
+\makecvtitle
+
+%Broadly my research goal was to investigate RNA-seq dataset from two different perspectives. One aspect was to algorithmically inspect the large scale publicly available datasets to offer a space frugal representation, and to improve the computationally intensive basic steps such as mapping and quantification. The other aspect was to inspect the accurcy of different mapping and quantification algorithms on publicly available datasets. 
+
+\setlength{\parindent}{5ex}
+RNA-seqencing has become the de-facto standard for measuring transcript level and gene level expression in different cells, organisms and species. Given the growing popularity of the RNA-seq datasets, there are numerous tools that are designed to store (efficient disk usage), process (map or align), and analyse (quantification, differential expression etc.) the data.
+
+\setlength{\parindent}{5ex}
+Throughout my doctoral studies, I found interesting attributes in each of these steps and proposed solutions that either improved the performance of existing methods or introduced a new approach altogether. To be more specific, I studied the nature of sequence redundancy in the RNA-seq dataset. I observed that the presence of identical sequences in the RNA-seq experiments, often originated from shared exons, or alleles, homologous, paralogous references, plays a major role in many challenges related to RNA-seq data analysis. Through different published work, I tried to both address the challenges of multi-mapping~\cite{quark,pufferfish,selaln} in mapping and quantification problems of RNA-seq data and, simultaneously had shown ways to turn this challenge into an opportunity to increase the efficiency of the computational pipeline~\cite{terminus,rapclust}.
+
+\section{Published Research}
+\setlength{\parindent}{5ex} 
+ I introduced Quark \cite{quark}, a semi-reference compression algorithm for RNA-seq dataset, which leverages the shared sequences present in the raw fastq reads. The core compression algorithm makes use of read level ``equivalence classes'', a derivative of another popular light-weight algorithm ``Quasi-mapping'' that I co-authored~\cite{rapmap}. Quark stores parts of reference only once that are redundantly present multiple times in the given read dataset, represented in the form of equivalence classes. Although the reference is required for compressing the reads, however, it is not required in the phase of decompression, effectively making the algorithm independent of the version of the reference. Later, I contributed in designing Pufferfish~\cite{pufferfish}, a succinct graph-based indexing scheme for RNA-seq data, that right now, serves as the basic backbone for the principle mapper in the widely popular quantification tool Salmon~\cite{salmon}. The multi-mappable reads resulting from the sequence redundancy can also lead to uncertain quantification estimates. I addressed this problem in the recently published tool Terminus~\cite{terminus}, where the proposed solution that produces groups of transcripts when enough read-level evidence is not present for individual transcripts. Moreover, we have shown that such groups of transcripts can capture biological information (such as gene families) even though the tool itself has no information about underlying annotation.
+
+\setlength{\parindent}{5ex}
+While bulk RNA-seq provides reproducible, highly sensitive transcript-level expression, the individual signals from different cells are lost. Single-cell RNA-seq technology, which has become widely popular in the last few years enables the cellular level resolution of the RNA-seq expression profile. As a result, a myriad of publicly available datasets is now available providing gene expression from multiple (ranging from thousands to millions) cells over many organs and tissues. To aid the analysis of these huge datasets, new computational techniques are developed extending the existing tools for bulk RNA-seq datasets. I observed that in the absence of ground truth it is often difficult to assess the accuracy of such tools, and subsequently developed a sequence level simulator Minnow~\cite{minnow} for droplet-based single-cell RNA-seq data. Minnow can mimic the pattern of sequence level multi-mapping of real-world datasets and is capable of simulating reads from thousands of cells in a multi-threaded fashion.
+
+\section{Future Research}
+I have also contributed to improving other methodologies~\cite{mappingsmatter,rapclust,alevin2,selaln} that further enhanced and assessed the performance of existing bulk and single-cell RNA-seq pipelines. Although my focus has been the analysis of RNA-seq datasets in both single and bulk domain, I feel it only captures one dimension of the multi-modal complex cell heterogeneity. Other modalities such as DNA methylation (GEM-seq), chromatin accessibility (single-cell ATAC-seq), spatial information (FISH-seq) not only mitigate the caveat of one protocol (such as missing expression values from one of the assays) but can also validate the conclusions drawn from the data. 
+
+\setlength{\parindent}{5ex}
+I aim to design computational pipelines that can analyze and integrate sequence-level data from multiple sources. A typical data processing pipeline for a particular assay runs independently. Therefore, even when the results from another assay are present from a matched dataset, it is not being utilized. A principled method that captures the inherent conflicts in the results from different assays could use this opportunity and further improve the accuracy of the computational pipeline from a lowly confident estimate from a particular sequencing assay. The theoretical underpinning of such a representation can be achieved by transcriptional ``latent space'', where the set of observed variables can represent the assay at our disposal. On a conceptual level, this idea exists in the field of natural language processing and image processing, widely known as ``domain adaptation''~\cite{daume2009frustratingly,ganin2014unsupervised}. Although similar efforts have been made in single-cell multi-omics dataset~\cite{liu2019jointly,amodio2018magan,eraslan2019deep}, such approaches lack generalizability and interpretability. I believe building a large scale repository of the matched publicly available multi-omics dataset along with the corresponding transcriptional latent spaces (via both existing and newly proposed methods) can improve the usability and accuracy of the multi-modal analysis.
+
+
+%Single-cell multimodal omics (scMulti-omics) sequencing technologies have recently emerged and show advantages of simultaneously measuring multiple modalities from the same cell, which enables a more comprehensive exploration of cell behavior and identity [2,16., 17., 18., 19.]. These technologies have tremendous potential in precision treatments, drug resistance, and relapse potential for specific tumors since they are particularly useful for studying cells undergoing rapid differentiation (e.g., cancer and Alzheimer’s disease) or evolving highly diverse subpopulations (e.g., immune cells) [20,21]. Specifically, scMulti-omics can greatly impact clinical application by identifying novel disease mechanisms. The underlying modalities can help predict drug sensitivities in tumor cells, before any in vivo and/or in vitro drug doses, to exclude low-sensitivity drugs and decrease the diagnostic cost. By 2025, the global scMulti-omics market is anticipated to be US$5.32 billion, mainly driven by the increasing need for noninvasive diagnosis and personalized medicine [22].
+
+% http://hhwf.org/research-fellowship/
+% https://www.nature.com/articles/s41576-019-0122-6.pdf
+
+\clearpage
+%\section{Reference}
+
+\bibliographystyle{plain}
+\bibliography{pub}                  
+
+
+
+\end{document}
+
+
+%% end of file `template.tex'.
