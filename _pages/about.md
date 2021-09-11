@@ -15,3 +15,4 @@ After finishing my bachelor's degee in physiotherapy from Padmashree. Dr. D. Y. 
 I am currently working as an independent practitioner in home based setting from 2014 as  a Pediatric Physiotherapist. i have worked as a pediatric physiotherapist in Hiranandani hopsital,Mumbai from 2017 to 2019. I have done my NDTA Certification on 2019. 
 
 
+I have worked with various Adult and pediatric cases involving, Cerebral palsy, Developmental delay, Autism spectrum disorder, Attention Deficit Hyperactive Disorder, Attention defecit disorder, Learning disorder, Guillian barre syndrome, Duchhenes muscular dystrophy, stroke, Multiple Sclerosis, cerebellar ataxia, parkinsons disease, axonal Neuropathy. i have provided therapeautic service following NDT approach, Sensory Integration therapy and play therapy to promote Function.
