@@ -11,7 +11,7 @@ title                    : "Snigdha Karmokar"
 title_separator          : "-"
 name                     : &name "Snigdha Karmokar"
 description              : &description "Pediatric Physiotherapist"
-url                      : https://hiraksarkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://snigdhakarmokar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snigdhakarmokar/snigdhakarmokar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hirak Sarkar"
+  name             : "Snigdha Karmokar"
   avatar           : "profile.jpg"
   bio              : "I am a pediatric physio therapist practicing in Mumbai, India"
   location         : "Mumbai, India"
