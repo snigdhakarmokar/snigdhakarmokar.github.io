@@ -174,10 +174,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
-  articles:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/ 
   expressions:
     output: true
     permalink: /:collection/:path/
@@ -216,15 +213,6 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _articles
-  - scope:
-      path: ""
-      type: articles
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _expressions
   - scope:
       path: ""
@@ -264,6 +252,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-pdf-embed
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

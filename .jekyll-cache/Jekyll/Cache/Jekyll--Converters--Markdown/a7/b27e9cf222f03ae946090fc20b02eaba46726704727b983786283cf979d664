@@ -1,2 +1,0 @@
-I"ü<p>We present Quark, a semi-reference-based compression tool designed for RNA-seq data. Quark makes use of a reference sequence when encoding reads, but produces a representation that can be decoded independently, without the need for a reference.</p>
-:ET

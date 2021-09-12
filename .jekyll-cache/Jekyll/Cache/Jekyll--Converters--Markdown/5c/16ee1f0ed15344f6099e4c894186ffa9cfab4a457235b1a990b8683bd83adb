@@ -1,7 +1,0 @@
-I"<p>Motivation:
-Advances in sequencing technology, inference algorithms and differential testing methodology have enabled transcript-level analysis of RNA-seq data. Yet, the inherent inferential uncertainty in transcript-level abundance estimation, even among the most accurate approaches, means that robust transcript-level analysis often remains a challenge. Conversely, gene-level analysis remains a common and robust approach for understanding RNA-seq data, but it coarsens the resulting analysis to the level of genes, even if the data strongly support specific transcript-level effects.
-Results:
-We introduce a new data-driven approach for grouping together transcripts in an experiment based on their inferential uncertainty. Transcripts that share large numbers of ambiguously-mapping fragments with other transcripts, in complex patterns, often cannot have their abundances confidently estimated. Yet, the total transcriptional output of that group of transcripts will have greatly-reduced inferential uncertainty, thus allowing more robust and confident downstream analysis. Our approach, implemented in the tool terminus, groups together transcripts in a data-driven manner allowing transcript-level analysis where it can be confidently supported, and deriving transcriptional groups where the inferential uncertainty is too high to support a transcript-level result.
-Availability:
-Terminus is implemented in Rust, and is freely-available and open-source. It can be obtained from <a href="https://github.com/COMBINE-lab/terminus">here</a></p>
-:ET
