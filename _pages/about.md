@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-The Desire to work as a Pediatric Physiotherapist stemmed from my Post-graduation days, when I was in my master's program doing specialization in neurosciences. I had an encounter with a chirpy little girl who was diagnosed with Downs Syndrome, while talking to her for 2 minutes, we became friends. During the course of her therapy, my interest grew stronger in this field and I wanted to learn more about neurological disabilities predominant in kids. 
+The desire to work as a pediatric physiotherapist stemmed from my post-graduation days, when I was in my master's program doing specialization in neurosciences. I had an encounter with a chirpy little girl who was diagnosed with Downs Syndrome, while talking to her for 2 minutes, we became friends. During the course of her therapy, my interest grew stronger in this field and I wanted to learn more about neurological disabilities predominant in kids. 
 
 ![](https://i.imgur.com/ATWBDMT.jpg){: height="100" }
 
