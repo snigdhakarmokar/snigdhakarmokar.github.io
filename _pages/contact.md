@@ -7,4 +7,4 @@ author_profile: true
 Contact information is below, including email and various web services.  
 
 * E-mail: snigdhakarmokar.pt [at] gmail.edu
-* LinkedIn: [hiraksarkar](https://www.linkedin.com/in/snigdha-karmokar-356b40150/?originalSubdomain=in)
+* LinkedIn: [link](https://www.linkedin.com/in/snigdha-karmokar-356b40150/?originalSubdomain=in)
