@@ -12,7 +12,7 @@ redirect_from:
 
 The Desire to work as a Pediatric Physiotherapist stems from my Post-graduation days, when I was in my Master's program doing my specialization in Neurosciences. I had an encounter with a chirpy girl who was Diagnosed with Downs Syndrome, while Talking to her for 2 minutes, we became friends. During the course of her Therapy, i was learning from her too. I realized, my interest grew stronger in this field and wanted to learn more about Children Neurological Disabilities. 
 
-![](https://i.imgur.com/NMHyTqN.jpg)
+![](https://i.imgur.com/k8FZ1Dj.png)
 
 After completing my Bachelor's degree in physiotherapy from Padmashree. Dr. D. Y. Patil University and subsequent Masters with a specialization in Neurosciences from NMIMS University. I joined the Pediatric Physiotherapy Department in  Dr. L. H. Hiranandani Hospital as a Pediatric Physiotherapist. I had the opportunity to work with varied cases involving, Cerebral palsy, Developmental delay, Autism spectrum disorder, Attention Deficit Hyperactive Disorder, Attention deficit disorder, Learning disorders, genetic conditions like Guillian barre syndrome, Duchhenes muscular dystrophy, Giant axonal Neuropathy, reubenstein taybii etc. The Interventions focused on achieving functional independence using Neuro-developmental Therapy and sensory Integration Therapy. to understand more about the treatment approaches, I then learned about Neuro-developmental therapy and completed my NDTA Certification in 2019. 
 
